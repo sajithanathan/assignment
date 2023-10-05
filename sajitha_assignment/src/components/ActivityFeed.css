@@ -1,0 +1,16 @@
+/* ActivityFeed.css */
+.avatar-icon {
+    width: 40px; /* Adjust the width as needed */
+    height: 40px; /* Adjust the height as needed */
+    fill: #333; /* Adjust the icon color */
+  }
+  .icon {
+    max-width: 100%; /* Set the image width to fit its container */
+    display: block; /* Remove any extra spacing or margin around the image */
+    margin-top: 20px; /* Adjust the margin to your preference */
+  }
+  .activity-feed-box {
+    margin-top: 110px; /* Adjust the margin-top value as needed */
+    /* ... your other styles */
+  }
+  
